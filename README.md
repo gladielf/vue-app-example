@@ -1,6 +1,6 @@
 # myapp
 
-> A Vue.js project
+> Proyecto hecho con Vue.js para mis pruebas personales
 
 ## Build Setup
 
